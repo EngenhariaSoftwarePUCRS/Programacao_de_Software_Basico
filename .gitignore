@@ -1,3 +1,11 @@
+# Extensionless files support
+*
+!*.*
+!*/
+*.o
+*.exe
+.vscode
+
 # Prerequisites
 *.d
 
