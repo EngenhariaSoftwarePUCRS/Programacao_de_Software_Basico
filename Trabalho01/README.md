@@ -1,5 +1,41 @@
+# Programação de Software Básico - Trabalho 1
+
 Trabalho oficial hospedado no repositório
 
 ```
 https://github.com/LuHellerKP/ProgramacaoDeSoftwareBasico_Trabalho01
 ```
+
+## PARA COMPILAR E EXECUTAR O TRABALHO:
+
+### Pelo VSCode:
+
+-   Abra a pasta do trabalho (tenha certeza que a pasta .vscode esteja na raiz do projeto, pois o VSCode precisa dos arquivos JSON de configuração)
+-   Compile com Terminal -> Run Build Task (ou use o atalho indicado)
+-   Execute com Run -> Start Debugging
+
+### Para compilar pelo terminal:
+
+-   Linux:
+
+    ```sh
+        make
+    ```
+
+-   Windows:
+    ```cmd
+        mingw32-make
+    ```
+
+### Para executar pelo terminal:
+
+-   Linux:
+
+    ```sh
+        ./zoom
+    ```
+
+-   Windows:
+    ```cmd
+        zoom
+    ```
